@@ -1,4 +1,5 @@
-# Portfolio Project
+The ZIP FILE IS IN THE REPO, IT IS THE ONE WITH EVERYTHING.
+
 
 Created By Group 93 of Feb, 2025 Cohort
 PLP
